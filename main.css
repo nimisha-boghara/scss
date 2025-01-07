@@ -1,1 +1,14 @@
-/*# sourceMappingURL=main.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 100vh;
+  width: 100%;
+  display: grid;
+  place-items: center;
+  color: red;
+  background-color: #10ac84;
+}/*# sourceMappingURL=main.css.map */
